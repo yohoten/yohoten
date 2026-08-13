@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Yohoten, a developer who loves technology, China 🇨🇳. I firmly believe that "after passing the pass, it will be a plain", and I actually really enjoy photography and walking🍔.
+Hi, I'm Yohoten, a developer who loves technology, China 🇨🇳. I firmly believe that "After passing the pass, it's the plain", and I actually really enjoy photography and ~~walking~~🍔.
 
 
 
