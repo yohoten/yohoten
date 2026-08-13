@@ -4,7 +4,12 @@
 
 Hi, I'm Yohoten, a developer who loves technology, China 🇨🇳. I firmly believe that "After passing the pass, it's the plain", and I actually really enjoy photography and ~~walking~~🍔.
 
+
 <img src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEZHn5qfgb6VdG8uuDvjK6cAtsUWVSXTAACZyUAAvLa8Ver5PB9zzLqdD0E.jpg" alt="BQACAgUAAyEGAASHRsPbAAEZHn5qfgb6VdG8uuDvjK6cAtsUWVSXTAACZyUAAvLa8Ver5PB9zzLqdD0E.jpg" />
+
+
+![](https://i.imgs.ovh/2026/08/14/f187ae8e128b2828614e1d183148bbbe.jpg)
+
 
 ### Skills
 
