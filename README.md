@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58E6D9&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Yohoten" alt="Hi there, I'm Yohoten" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00E6C4&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Yohoten" alt="Hi there, I'm Yohoten" />
 
 [![Blog](https://img.shields.io/badge/Blog-yohoten.github.io-58E6D9?style=flat-square&logo=githubpages&logoColor=0D1118)](https://yohoten.github.io/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-yohoten-0D1118?style=flat-square&logo=zhihu&logoColor=0084FF)](https://www.zhihu.com/people/yohoten/)
@@ -11,9 +10,7 @@
 
 <img src="https://i.imgs.ovh/2026/08/14/f187ae8e128b2828614e1d183148bbbe.jpg" width="800" alt="cover" />
 
-Hi, I'm Yohoten, a developer who loves technology, from ChongQing 🇨🇳. \
-I firmly believe that **`"After passing the pass, it's the plain."`** \
-and I actually really enjoy photography 📷 and ~~running~~ 🍔.
+Hi, I'm Yohoten, a developer who loves technology, ChongQing 🇨🇳. I firmly believe that **`"After passing the pass, it's the plain."`** and I actually really enjoy photography 📷 and ~~running~~ 🍔.
 
 ---
 
