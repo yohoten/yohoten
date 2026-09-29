@@ -10,7 +10,7 @@
 
 <img src="https://i.imgs.ovh/2026/08/14/f187ae8e128b2828614e1d183148bbbe.jpg" width="800" alt="cover" />
 
-Hi, I'm Yohoten, a developer who loves technology, ChongQing 🇨🇳. I firmly believe that **`"After passing the pass, it's the plain."`** and I actually really enjoy photography 📷 and ~~running~~ 🍔.
+Hi, I'm Yohoten, a data analyst who loves technology, ChongQing 🇨🇳. I firmly believe that **`"After passing the pass, it's the plain."`** and I actually really enjoy photography 📷 and ~~running~~ 🍔.
 
 ---
 
