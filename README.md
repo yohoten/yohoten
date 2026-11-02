@@ -5,7 +5,7 @@
 [![Zhihu](https://img.shields.io/badge/Zhihu-yohoten-0D1118?style=flat-square&logo=zhihu&logoColor=0084FF)](https://www.zhihu.com/people/yohoten/)
 [![CSDN](https://img.shields.io/badge/CSDN-yohoten-0D1118?style=flat-square&logo=csdn&logoColor=FC5531)](https://blog.csdn.net/yohoten/)
 [![Gitee](https://img.shields.io/badge/Gitee-yohoten-0D1118?style=flat-square&logo=gitee&logoColor=C71D23)](https://gitee.com/yohoten/)
-[![Site](https://img.shields.io/badge/chenxiaoxue.space-0D1118?style=flat-square&logo=googlechrome&logoColor=58E6D9)](https://chenxiaoxue.space/)
+[![Atomgit](https://img.shields.io/badge/Atomgit-yohoten-0D1118?style=flat-square&logo=atomgit&logoColor=C71D23)](https://atomgit.com/yohoten/)
 [![Location](https://img.shields.io/badge/ChongQing-0D1118?style=flat-square&label=%F0%9F%87%A8%F0%9F%87%B3)](#)
 
 <img src="https://i.imgs.ovh/2026/08/14/f187ae8e128b2828614e1d183148bbbe.jpg" width="800" alt="cover" />
